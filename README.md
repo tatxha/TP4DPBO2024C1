@@ -15,11 +15,11 @@ Saya Tattha Maharany Yasmin Akbar dengan NIM 2201805 mengerjakan TP 3 dalam mata
 
 Terdiri dari 2 class yaitu **Divisi** dan **Member**
 
-Didalam class **Divisi** memiliki 3 Atribut, yaitu : 
+Didalam class **Divisi** memiliki 2 Atribut, yaitu : 
 * id_divisi
 * nama_divisi
 
-Didalam class **Member** memiliki 2 Atribut, yaitu : 
+Didalam class **Member** memiliki 6 Atribut, yaitu : 
 * id
 * nama
 * email
