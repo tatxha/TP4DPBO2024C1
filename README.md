@@ -60,3 +60,6 @@ Didalam class **Member** memiliki 6 Atribut, yaitu :
 ![image](https://github.com/tatxha/TP4DPBO2024C1/assets/134766457/28412ba5-b556-4ed1-968c-e78929919ab3)
 ![image](https://github.com/tatxha/TP4DPBO2024C1/assets/134766457/73826a42-fea1-4b8f-9d91-988f03051653)
 ![image](https://github.com/tatxha/TP4DPBO2024C1/assets/134766457/e9d3bc7a-9764-40ae-b205-daddce986395)
+https://github.com/tatxha/TP4DPBO2024C1/assets/134766457/025f8b80-d0be-437a-a8d8-e7b26e8325e4
+
+
