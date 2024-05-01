@@ -3,7 +3,7 @@
 
 ## Janji
 
-Saya Tattha Maharany Yasmin Akbar dengan NIM 2201805 mengerjakan TP 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Tattha Maharany Yasmin Akbar dengan NIM 2201805 mengerjakan TP 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 
 ## Design Database
@@ -45,7 +45,7 @@ Didalam class **Member** memiliki 6 Atribut, yaitu :
    ![image](https://github.com/tatxha/TP4DPBO2024C1/assets/134766457/d293e8f3-3b37-45a4-b63f-0139d22206ff)
 
 
-5. Jika kita klik `Hapus`, maka data yang dipilih akan langsung dihapus.
+5. Jika kita klik `Delete`, maka data yang dipilih akan langsung dihapus.
 6. Pada halaman data divisi, kurang lebih sama dengan data member. Terdapat tabel yang menampilkan data divisi, button untuk menambahkan data baru, dan action seperti `Edit` dan `Delete`.
 
    ![image](https://github.com/tatxha/TP4DPBO2024C1/assets/134766457/28412ba5-b556-4ed1-968c-e78929919ab3)
